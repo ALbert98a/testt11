@@ -107,7 +107,7 @@ client.on("messageCreate", async (message) => {
   }
 });
 
-client.login('OTU3Njc5NjU1MDIyOTA3NDcy.YkCSrg.lYcGUjoJICi9kRo2FbdSdDMN41Q');
+
 require("./storage/server");
 async function checkImage(url) {
   const res = await fetch(url);
