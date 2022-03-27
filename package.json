@@ -1,0 +1,21 @@
+{
+  "name": "arabmediators-event-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ci": "^2.1.1",
+    "config": "^3.3.7",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "node-fetch": "^3.2.3",
+    "quickmongo": "^5.1.2"
+  }
+}
